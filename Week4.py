@@ -34,4 +34,3 @@ for i in S:
     a=a+i
 print(a,end="")
 
-#Write a program to take an integer N as an input and display the pattern#
